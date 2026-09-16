@@ -1,2 +1,2 @@
-# Portfolio
-My portfolio to get hired 🫠
+# Portfolio - Work In Progress
+My portfolio website to get hired 🫠
